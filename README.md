@@ -6,7 +6,7 @@
 <!-- Intro -->
 <h2 align="center">👋 Hey, I'm <strong>Chanda Fatima</strong></h2>
 <p align="center">
-  🚀 Next.js & TypeScript Developer | 🐍 Python Enthusiast | 🎮 Game Master Agent Creator  
+  🚀 Next.js & TypeScript Developer | 🐍 Python Enthusiast | Agent Creator  
 </p>
 
 ---
@@ -45,17 +45,10 @@
 
 ---
 
-### 🐍 Fun Animation
-<p align="center">
-  <img src="https://github.com/Mylife-chandafatima/Mylife-chandafatima/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="zubiafatima99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/chandafatima-£mylife-48475a27a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Mylife-chandafatima"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
