@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=35&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Chanda+Fatima;🚀+Next.js+%26+TypeScript+Developer;🐍+Python+Backend+Engineer;🤖+Agentic+AI+Builder;Welcome+To+My+GitHub+Profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=35&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Chanda+Fatima;🚀+Next.js+%26+TypeScript+Developer;🐍+Python+Fast Api;🤖+Agentic+AI+Builder;Welcome+To+My+GitHub+Profile!">
 </p>
 
 
@@ -10,7 +10,7 @@
 
 - 🎓 Governor House Initiative (GIAIC) — **Q4 Student**  
 - 🚀 **Next.js + TypeScript Frontend Developer**  
-- 🐍 **Python FastAPI Backend Developer**  
+- 🐍 **Python FastAPI Developer**  
 - 🤖 **Agentic AI Workflow Builder (Tool Calling + Multi-Agent Systems)**  
 - 🎨 **Figma → Fully Responsive Websites**  
 - ⚡ *Fun fact:* I convert ☕ into code faster than Windows boots  
