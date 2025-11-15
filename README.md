@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=35&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Chanda+Fatima;🚀+Next.js+%26+TypeScript+Developer;🐍+Python+Fast Api;🤖+Agentic+AI+Builder;Welcome+To+My+GitHub+Profile!">
-</p>
+
+
+<!-- Header Animated Typing -->
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=000000&size=35&center=true&vCenter=true&width=900&font=Fira+Code&duration=3000&stroke=FFD700&strokeWidth=1.5&pause=1000&lines=👋+Hi,+I'm+Chanda+Fatima;🚀+Next.js+%26+TypeScript+Developer;🐍+Python+FastApi;🤖+Agentic+AI+Builder;Welcome+To+My+GitHub+Profile!">
+
+
+
 
 
 
